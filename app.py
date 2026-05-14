@@ -26,7 +26,6 @@ def translate_text():
         messagebox.showerror("Error", str(e))
 
 
-
 root = tk.Tk()
 root.title("CodeAlpha Translator")
 root.geometry("650x500")
