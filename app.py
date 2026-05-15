@@ -139,5 +139,4 @@ footer = tk.Label(
 )
 footer.pack(pady=10)
 
-
 root.mainloop()
